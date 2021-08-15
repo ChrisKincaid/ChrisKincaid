@@ -1,16 +1,16 @@
 - 👋 Hi, I’m @ChrisKincaid
 - 👀 I’m interested in:
-        InfoSec
-        PenTesting
+        InfoSec;
+        PenTesting;
         Automation
         Always learning new things!
 - 🌱 I’m currently learning:
-        CEH certification
-        Mobile forensic
-        Python Automation
+        CEH certification;
+        Mobile forensic;
+        Python Automation;
         Image recognition
 - 💞️ I’m looking to collaborate on:
-        Nothing, not really looking to colab at the moment.
+        Anything I guess.
 - 📫 How to reach me:
         Chris@ByteOwl.Tech
 
